@@ -1,0 +1,86 @@
+
+.partners-section{
+    background: #F7F7FA;
+    padding: 60px;
+}
+
+.row.partners {
+    padding: 20px 0;
+}
+
+.partner_Image{
+    padding: 10px 10px;
+    width:110px;
+    position:relative;
+    left: 0;
+}
+
+
+.mis_desc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+}
+
+.our_mission_text {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+
+.mis_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: #363636;
+}
+
+.mis_desc {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    color: #5F5F5F;
+}
+
+
+@media screen and (max-width:990px) {
+    .col2 {
+        order: 3;
+    }
+    .Mission_Section{
+        margin: 30px auto;
+        padding: 0!important;
+    }
+    .mis_title {
+
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 120%;
+        text-align: center;
+    }
+
+    .our_mission_text {
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .mis_desc {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 130%;
+        text-align: center;
+        color: #5F5F5F;
+
+    }
+    
+}
