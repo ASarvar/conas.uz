@@ -45,6 +45,32 @@ import p_2_12 from '../../assets/Projects/photos_02/11.jpg';
 import p_2_13 from '../../assets/Projects/photos_02/12.jpg';
 import p_2_14 from '../../assets/Projects/photos_02/13.jpg';
 import p_2_15 from '../../assets/Projects/photos_02/14.jpg';
+import p_3_01 from '../../assets/Projects/photos_03/1.png';
+import p_3_02 from '../../assets/Projects/photos_03/2.jpg';
+import p_3_03 from '../../assets/Projects/photos_03/3.jpg';
+import p_3_04 from '../../assets/Projects/photos_03/4.jpg';
+import p_3_05 from '../../assets/Projects/photos_03/5.jpg';
+import p_3_06 from '../../assets/Projects/photos_03/6.jpg';
+import p_3_07 from '../../assets/Projects/photos_03/7.jpg';
+import p_3_08 from '../../assets/Projects/photos_03/8.jpg';
+import p_3_09 from '../../assets/Projects/photos_03/9.jpg';
+import p_3_10 from '../../assets/Projects/photos_03/10.jpg';
+import p_3_11 from '../../assets/Projects/photos_03/11.jpg';
+import p_3_12 from '../../assets/Projects/photos_03/12.jpg';
+import p_3_13 from '../../assets/Projects/photos_03/13.jpg';
+import p_3_14 from '../../assets/Projects/photos_03/14.jpg';
+import p_3_15 from '../../assets/Projects/photos_03/15.jpg';
+import p_3_16 from '../../assets/Projects/photos_03/16.jpg';
+import p_3_17 from '../../assets/Projects/photos_03/17.jpg';
+import p_3_18 from '../../assets/Projects/photos_03/18.jpg';
+import p_3_19 from '../../assets/Projects/photos_03/19.jpg';
+import p_3_20 from '../../assets/Projects/photos_03/20.jpg';
+import p_3_21 from '../../assets/Projects/photos_03/21.jpg';
+import p_3_22 from '../../assets/Projects/photos_03/22.jpg';
+import p_3_23 from '../../assets/Projects/photos_03/23.jpg';
+import p_3_24 from '../../assets/Projects/photos_03/24.jpg';
+import p_4_01 from '../../assets/Projects/photos_04/01.jpg';
+import p_4_02 from '../../assets/Projects/photos_04/02.jpg';
 
 export const photos_01 = [
   { src: p_01, width: 4, height: 3 },
@@ -98,3 +124,30 @@ export const photos_02 = [
   { src: p_2_14, width: 4, height: 3 },
   { src: p_2_15, width: 4, height: 3 },
 ];
+export const photos_03 = [
+  { src: p_3_01, width: 4, height: 3 },
+  { src: p_3_02, width: 4, height: 3 },
+  { src: p_3_03, width: 4, height: 3 },
+  { src: p_3_04, width: 4, height: 3 },
+  { src: p_3_05, width: 4, height: 3 },
+  { src: p_3_06, width: 4, height: 3 },
+  { src: p_3_07, width: 4, height: 3 },
+  { src: p_3_08, width: 4, height: 3 },
+  { src: p_3_09, width: 4, height: 3 },
+  { src: p_3_10, width: 4, height: 3 },
+  { src: p_3_11, width: 4, height: 3 },
+  { src: p_3_12, width: 4, height: 3 },
+  { src: p_3_13, width: 4, height: 3 },
+  { src: p_3_14, width: 4, height: 3 },
+  { src: p_3_15, width: 4, height: 3 },
+  { src: p_3_16, width: 4, height: 3 },
+  { src: p_3_17, width: 4, height: 3 },
+  { src: p_3_18, width: 4, height: 3 },
+  { src: p_3_19, width: 4, height: 3 },
+  { src: p_3_20, width: 4, height: 3 },
+  { src: p_3_21, width: 4, height: 3 },
+  { src: p_3_22, width: 4, height: 3 },
+  { src: p_3_23, width: 4, height: 3 },
+  { src: p_3_24, width: 4, height: 3 },
+];
+export const photos_04 = [{ src: p_4_01 }, { src: p_4_02 }];

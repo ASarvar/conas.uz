@@ -17,6 +17,8 @@ import Card from 'react-bootstrap/Card';
 import image1 from '../../assets/News/1.png';
 import image2 from '../../assets/News/2.png';
 import image3 from '../../assets/News/3.png';
+import image4 from '../../assets/News/newyear1.png';
+import image5 from '../../assets/News/14.jpg';
 
 SwiperCore.use([Navigation])
 
@@ -86,6 +88,47 @@ const News = () => {
           <Row className="content">
             <Col>
             <div className="newsPhoto">
+              <Card.Img  variant="top" src={image5} /> 
+            </div>
+            </Col>
+            <Col xs={9}>
+            <Card.Body className="cardBody">
+            <Link className="linkk" to="/news_05" >
+              <Card.Title className="newsTitle">{t("News.title5")}</Card.Title>
+            </Link>
+              <Card.Text className="newsText">
+                {t("News.text5")}
+              </Card.Text>
+            </Card.Body>
+            </Col>
+          </Row>
+        </div>
+        <div className="MainContent">
+          
+          <Row className="content">
+            <Col>
+            <div className="newsPhoto">
+              <Card.Img  variant="top" src={image4} /> 
+            </div>
+            </Col>
+            <Col xs={9}>
+            <Card.Body className="cardBody">
+            <Link className="linkk" to="/news_04" >
+              <Card.Title className="newsTitle">{t("News.title4")}</Card.Title>
+            </Link>
+              <Card.Text className="newsText">
+                {t("News.text4")}
+              </Card.Text>
+            </Card.Body>
+            </Col>
+          </Row>
+        </div>
+
+        <div className="MainContent">
+          
+          <Row className="content">
+            <Col>
+            <div className="newsPhoto">
               <Card.Img  variant="top" src={image3} /> 
             </div>
             </Col>
@@ -101,6 +144,7 @@ const News = () => {
             </Col>
           </Row>
         </div>
+        
         
         <div className="MainContent">
           <Row className="content">

@@ -55,6 +55,38 @@ const Projects = () => {
             </div>
             </Link>
           </Col>
+          <Col lg="4" md="6" sm="12">
+          <Link className="linkk" to="/project_03" >
+            <div className="CartBox1">
+              <div className="imgBox imgBox_3 ">
+                {/* <div className="bottomElements">
+                  <div className="cardNumber">01</div>
+                  <div className="cardLine"></div>
+                </div> */}
+              </div>
+              <div className="cardTitle">{t("Projects.xafsizlikuniverB")}</div>
+              <div className="cardDesc">
+              {t("Projects.xafsizlikuniverBDesc")}
+              </div>
+            </div>
+            </Link>
+          </Col>
+          <Col lg="4" md="6" sm="12">
+          <Link className="linkk" to="/project_04" >
+            <div className="CartBox1">
+              <div className="imgBox imgBox_4 ">
+                {/* <div className="bottomElements">
+                  <div className="cardNumber">01</div>
+                  <div className="cardLine"></div>
+                </div> */}
+              </div>
+              <div className="cardTitle">{t("Projects.chiller")}</div>
+              <div className="cardDesc">
+              {t("Projects.chillerDesc")}
+              </div>
+            </div>
+            </Link>
+          </Col>
         </Row>
       </Container>
     </div>
