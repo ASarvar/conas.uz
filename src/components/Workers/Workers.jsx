@@ -16,6 +16,10 @@ import razbekov from '../../assets/Razbekov.jpg';
 import latipov from '../../assets/Latipov Raximboy.jpg';
 import akkulov from '../../assets/Akkulov.png';
 import tanikulov from '../../assets/Tanikulov.jpg';
+import rustamov from '../../assets/Rustomov.jpg';
+import turdimatov from '../../assets/Turdimatov.jpg';
+import qudratov from '../../assets/Qudratov.jpg';
+import vaxobov from '../../assets/Vaxobov.jpg';
 // import qurbonov from '../../assets/media/nophoto.jpg';
 import { useTranslation } from "react-i18next";
 
@@ -229,6 +233,50 @@ const Workers = () => {
                 <div className="WorkerTexts">
                   <h4 className="titleName">{t("Employers.tanikulovData.name")}</h4>
                   <div className="jobDesc">{t("Employers.tanikulovData.job")}</div>
+                </div>
+              </div>
+            </Col>
+            <Col className="centerCol" lg="4" md="6" sm="12" onClick={() => setworker('Employers.rustamovData')}>
+              <div className="WorkerCard" onClick={() =>setPhoto(rustamov)}>
+                <div className="WorkerImage">
+                  <img src={rustamov} alt="" />
+                </div>
+                <div className="WorkerTexts">
+                  <h4 className="titleName">{t("Employers.rustamovData.name")}</h4>
+                  <div className="jobDesc">{t("Employers.rustamovData.job")}</div>
+                </div>
+              </div>
+            </Col>
+            <Col className="centerCol" lg="4" md="6" sm="12" onClick={() => setworker('Employers.turdimatovData')}>
+              <div className="WorkerCard" onClick={() =>setPhoto(turdimatov)}>
+                <div className="WorkerImage">
+                  <img src={turdimatov} alt="" />
+                </div>
+                <div className="WorkerTexts">
+                  <h4 className="titleName">{t("Employers.turdimatovData.name")}</h4>
+                  <div className="jobDesc">{t("Employers.turdimatovData.job")}</div>
+                </div>
+              </div>
+            </Col>
+            <Col className="centerCol" lg="4" md="6" sm="12" onClick={() => setworker('Employers.qudratovData')}>
+              <div className="WorkerCard" onClick={() =>setPhoto(qudratov)}>
+                <div className="WorkerImage">
+                  <img src={qudratov} alt="" />
+                </div>
+                <div className="WorkerTexts">
+                  <h4 className="titleName">{t("Employers.qudratovData.name")}</h4>
+                  <div className="jobDesc">{t("Employers.qudratovData.job")}</div>
+                </div>
+              </div>
+            </Col>
+            <Col className="centerCol" lg="4" md="6" sm="12" onClick={() => setworker('Employers.vaxobovData')}>
+              <div className="WorkerCard" onClick={() =>setPhoto(vaxobov)}>
+                <div className="WorkerImage">
+                  <img src={vaxobov} alt="" />
+                </div>
+                <div className="WorkerTexts">
+                  <h4 className="titleName">{t("Employers.vaxobovData.name")}</h4>
+                  <div className="jobDesc">{t("Employers.vaxobovData.job")}</div>
                 </div>
               </div>
             </Col>

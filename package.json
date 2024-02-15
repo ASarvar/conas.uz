@@ -56,6 +56,7 @@
     "react-i18next": "^11.10.0",
     "react-icons": "^4.2.0",
     "react-images": "^1.2.0-beta.7",
+    "react-jivosite": "^1.0.0",
     "react-lazy-load-image-component": "^1.5.1",
     "react-photo-gallery": "^8.0.0",
     "react-router-dom": "^5.2.0",

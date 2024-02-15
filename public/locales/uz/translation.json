@@ -151,6 +151,26 @@
       "name": "Sobirov Muzaffar Murod o’g’li",
       "job": "Materiallar bo'yicha hisobchi",
       "desc": ""
+    },
+    "rustamovData": {
+      "name": "Rustamov Ixtiyor Baxtiyorovich",
+      "job": "Prorab (qurilish ishlari bo'yicha mutaxassis)",
+      "desc": ""
+    },
+    "turdimatovData": {
+      "name": "Turdimatov Foziljon Odiljon o’g’li",
+      "job": "Suv ta'minoti va kanalizatsiya muhandisi",
+      "desc": ""
+    },
+    "qudratovData": {
+      "name": "Qudratov Shoxrux Shuhrat o’g’li",
+      "job": "Prorab (tugatish ishlari bo'yicha mutaxassis)",
+      "desc": ""
+    },
+    "vaxobovData": {
+      "name": "Vahobov Javoxir Qodir o’g’li",
+      "job": "Prorab (tugatish ishlari bo'yicha mutaxassis)",
+      "desc": ""
     }
   },
   "AboutPage": {

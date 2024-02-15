@@ -6,8 +6,7 @@ import loader from './preLoader.svg'
 import { ContextProvider } from './context/Context';
 import { ApiProvider } from './context/api';
 import { LangProvider } from './context/language';
-import '../node_modules/font-awesome/css/font-awesome.min.css'; 
-
+import '../node_modules/font-awesome/css/font-awesome.min.css'
 
 const App = lazy(() => import('./App.js'))
 
@@ -23,4 +22,3 @@ ReactDOM.render(
    </ContextProvider>
    </Suspense>, document.getElementById('root')
    );
-   
