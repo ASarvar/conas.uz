@@ -20,6 +20,7 @@ import rustamov from '../../assets/Rustomov.jpg';
 import turdimatov from '../../assets/Turdimatov.jpg';
 import qudratov from '../../assets/Qudratov.jpg';
 import vaxobov from '../../assets/Vaxobov.jpg';
+import pulatov from '../../assets/Pulatov.jpg';
 // import qurbonov from '../../assets/media/nophoto.jpg';
 import { useTranslation } from "react-i18next";
 
@@ -277,6 +278,17 @@ const Workers = () => {
                 <div className="WorkerTexts">
                   <h4 className="titleName">{t("Employers.vaxobovData.name")}</h4>
                   <div className="jobDesc">{t("Employers.vaxobovData.job")}</div>
+                </div>
+              </div>
+            </Col>
+            <Col className="centerCol" lg="4" md="6" sm="12" onClick={() => setworker('Employers.pulatovData')}>
+              <div className="WorkerCard" onClick={() =>setPhoto(pulatov)}>
+                <div className="WorkerImage">
+                  <img src={pulatov} alt="" />
+                </div>
+                <div className="WorkerTexts">
+                  <h4 className="titleName">{t("Employers.pulatovData.name")}</h4>
+                  <div className="jobDesc">{t("Employers.pulatovData.job")}</div>
                 </div>
               </div>
             </Col>

@@ -171,6 +171,11 @@
       "name": "Vahobov Javoxir Qodir o’g’li",
       "job": "Prorab (tugatish ishlari bo'yicha mutaxassis)",
       "desc": ""
+    },
+    "pulatovData": {
+      "name": "Po’latov Abduvohid Abdumannopovich",
+      "job": "Suv ta'minoti va kanalizatsiya muhandisi",
+      "desc": ""
     }
   },
   "AboutPage": {
@@ -205,6 +210,7 @@
     "shantui": "SHANTUI SD 22  buldozeri",
     "dewalon": "DEWALON SD 300 g'ildirakli yuklagich",
     "howo": "HOWO MIKSER 12М3",
+    "howo10m": "HOWO MIKSER 10М3",
     "diamondBox": "Kompaniyaning qurilish uskunalari butunlay yangi, bu ularni ikki yoki uch smenada ishlatilishiga imkon beradi.",
     "elkon": "ELKON beton aralashtirish moslamasi",
     "howot5g": "HOWO T5G (6X4) samosval, 400 o.k. 25 kubometr"

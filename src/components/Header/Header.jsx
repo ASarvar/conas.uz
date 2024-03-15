@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useState, useEffect} from "react";
 import { Navbar, Nav, Container, NavDropdown, Button } from "react-bootstrap";
 import { FaPhoneAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -7,6 +7,7 @@ import "./Styles.css";
 import { useTranslation } from "react-i18next";
 import { useLang } from '../../context/language'
 import "./s.scss";
+import * as JivoSite from "react-jivosite";
 
 const Header = (props) => {
   const { t, i18n } = useTranslation();
@@ -15,12 +16,46 @@ const Header = (props) => {
     i18n.changeLanguage(lang);
     setLang(lang)
   }
+  const [offset, setOffset] = useState(0);
 
+  useEffect(() => {
+      const onScroll = () => setOffset(window.pageYOffset);
+      // clean up code
+      window.removeEventListener('scroll', onScroll);
+      window.addEventListener('scroll', onScroll, { passive: true });
+      return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  // console.log(offset); 
+
+
+
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+
+// Get the navbar
+var navbar = document.getElementById("navbar");
+// console.log(navbar)
+
+// Get the offset position of the navbar
+var sticky = 60;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+if (navbar && window.pageYOffset >= sticky) {
+  navbar.classList.add("sticky")
+} else if (navbar) {
+  navbar.classList.remove("sticky");
+}
+}
   const [activeToggle,setActiveToggle] = useState('')
    
   return (
-    <Navbar className={props.position} expand="lg">
+    
+    <Navbar className={props.position+" main-nav sticky-nav"} id="navbar" expand="lg">
       <Container>
+      <JivoSite.Widget id="bQ4qk47B99" />
         <Link to="/">
           <Navbar.Brand >
             <img src={logo} alt="logo" />

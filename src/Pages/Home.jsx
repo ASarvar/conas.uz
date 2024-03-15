@@ -13,10 +13,8 @@ import Partners from '../components/Partners/Partners'
 
 const Home = () => {
 
-
   return (
    
-    
     <>
       <Header position='absolut_nav'/>
       <Carousel />

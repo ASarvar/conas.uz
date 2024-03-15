@@ -19,6 +19,7 @@ import vodovoz from "../../assets/machines/vodovoz-chacman.jpg";
 import shantui from "../../assets/machines/shantui.jpg";
 import diamond from "../../assets/Group 185.png";
 import howo from "../../assets/machines/Howo.jpg"
+import howo10m from "../../assets/machines/howo10m.png"
 import dewalon from "../../assets/machines/Dewalon.jpg"
 import elkon from "../../assets/machines/Elkon.jpg"
 import howot5g from "../../assets/machines/howo-T5G.jpg"
@@ -170,6 +171,14 @@ const ServicePageContent = () => {
                 <img src={dewalon} alt="" />
               </div>
               <h3 className="titleMachine">{t("machineService.dewalon")}</h3>
+            </div>
+          </Col>
+          <Col className="ColCenter" lg="3" md="4" sm="6">
+            <div className="machinesBox">
+              <div className="imgBox">
+                <img src={howo10m} alt="" />
+              </div>
+              <h3 className="titleMachine">{t("machineService.howo10m")}</h3>
             </div>
           </Col>
           <Col className="ColCenter" lg="3" md="4" sm="6">

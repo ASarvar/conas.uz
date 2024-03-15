@@ -1,4 +1,6 @@
 .absolut_nav {
+    
+    z-index: 999;
     width: 100%;
     background: url("../../assets/Header\ bg.png") no-repeat center;
     background-size: cover!important;
@@ -127,3 +129,9 @@
     transform: scale(1.05);
     transition: 0.1s;
 }
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: 0.95;
+  }
