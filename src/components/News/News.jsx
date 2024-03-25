@@ -19,6 +19,7 @@ import image2 from '../../assets/News/2.png';
 import image3 from '../../assets/News/3.png';
 import image4 from '../../assets/News/newyear1.png';
 import image5 from '../../assets/News/14.jpg';
+import image6 from '../../assets/News/navruz.jpg';
 
 SwiperCore.use([Navigation])
 
@@ -83,6 +84,26 @@ const News = () => {
       <Container>
         <h2 className="MainTitle">{t("News.title")}</h2>
         <hr />
+        <div className="MainContent">
+          
+          <Row className="content">
+            <Col>
+            <div className="newsPhoto">
+              <Card.Img  variant="top" src={image6} /> 
+            </div>
+            </Col>
+            <Col xs={9}>
+            <Card.Body className="cardBody">
+            <Link className="linkk" to="/news_06" >
+              <Card.Title className="newsTitle">{t("News.title6")}</Card.Title>
+            </Link>
+              <Card.Text className="newsText">
+                {t("News.text6")}
+              </Card.Text>
+            </Card.Body>
+            </Col>
+          </Row>
+        </div>
         <div className="MainContent">
           
           <Row className="content">
