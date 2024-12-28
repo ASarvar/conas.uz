@@ -1,0 +1,213 @@
+.newsContent {
+    /* background: linear-gradient(to bottom, #fff 88%, #F7F7FA 50%); */
+    padding-bottom: 40px;
+}
+
+.MainTitle {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+hr {
+    color: #EBEBEB;
+}
+
+.swiperRow {
+    width: 95%;
+    margin: 0 auto;
+}
+.cartImageBox{
+    min-height: 184px;
+    max-width: 310px;
+}
+.imageSection2{
+    min-height: 184px;
+    object-fit: cover;
+}
+.MainContent {
+    position: relative;
+    padding: 20px 0;
+}
+
+.swiperArrows {
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.swiperArrows .arrows {
+    background: #F4F6FC;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.swiperArrows .arrows:hover .bsIcon {
+    color: #0142EC;
+    transition: 0.25s;
+    transform: scale(1.4);
+
+
+}
+
+.bsIcon {
+    color: #BFBFBF;
+    transition: 0.25s;
+
+}
+
+.read-more {
+    text-align: right;
+}
+
+.bsArrowRight {
+    color: #0142EC;
+    font-size: 24px;
+}
+
+.read-more a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+    color: #0142EC;
+}
+
+.bsArrowRight {
+    margin-left: 10px;
+
+}
+.newsSwiper .swiper-slide{
+    background: rgb(255, 255, 255);
+}
+.CartItem {
+    border: 1px solid rgba(228, 228, 228, 0);
+    padding: 5px;
+}
+
+.newsSwiper .swiper-slide-active {
+    border: 1px solid rgba(228, 228, 228, 0.356);
+    box-shadow: 0px 0px 20px rgba(7, 7, 7, 0.1);
+    transform: scale(1.1);
+    padding: 5px;
+}
+
+.newsSwiper hr {
+    display: none;
+}
+
+.newsSwiper .swiper-slide-active hr {
+    display: block;
+}
+
+.newsSwiper .read-more {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.newsSwiper .swiper-slide-active .read-more {
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.newsSwiper {
+    transition: .5s;
+    padding: 35px 0;
+}
+
+
+.CartItem .title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 130%;
+    color: #363636;
+    margin-top: 15px;
+}
+
+.CartItem .desc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 130%;
+}
+
+.content{
+    border-radius: 6px;
+    background: #F7F7FA;
+    width: 100%;
+    position: relative;
+    
+}
+.musirChiziq{
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translate(-50%) rotate(90deg);
+    width: 50px;
+    background-color: black;
+}
+
+.newsPhoto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px !important;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.card-img, .card-img-top{
+    border-radius: calc(0.25rem - 1px);
+}
+
+.newsTitle{
+    text-align: center !important;
+    font-family: Roboto !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    line-height: 130% !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.newsText {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+}
+
+.cardBody {
+    padding: 10px 25px 10px 25px !important;
+    text-align: justify;
+    font-weight: 500;
+    font-family: Open Sans;
+    background: none !important;
+    border-left: none !important;
+}
+.linkk {
+    text-decoration: none;
+    color: none !important;
+    &:focus, &:hover, &:visited, &:link, &:active {
+        text-decoration: none;
+    }
+}
+
+
+@media screen and (max-width: 990px) {
+    .swiperArrows{
+        display: none!important;
+    }
+}

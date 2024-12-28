@@ -1,0 +1,298 @@
+{
+  "Menu": {
+    "company": "Kompaniya",
+    "aboutCompany": "Kompaniya haqida",
+    "services": "Xizmatlar",
+    "buildingWork": "Qurilish ishlari",
+    "MachineService": "Mashinalar va mexanizmlar",
+    "news": "Yangiliklar",
+    "ourWorkers": "Bizning xodimlar",
+    "contact_inf": "Aloqa",
+    "certificate": "Sertifikatlar",
+    "corruption": "Korrupsiyaga qarshi kurashish",
+    "projects": "Loyihalar",
+    "licence": "Litsenziyalar",
+    "diplom": "Diplomlar"
+  },
+  "CarouselHeader": {
+    "title1": "OBYEKTLAR  QURILISHI VA REKONSTRUKTSIYASI"
+  },
+  "OurMissionTexts": {
+    "ourMissionTitle": "Bizning maqsadimiz",
+    "ourMissionDesc1": "Xizmatlarimiz va mahsulotlarimiz sifatini",
+    "ourMissionDesc2": "doimiy ravishda oshirib borish"
+  },
+  "AboutCompany": {
+    "Title": "Kompaniya haqida",
+    "desc": "MChJ QK ''CONSTRUCTION ASIA'' O'zbekiston Respublikasida yosh va jadal rivojlanayotgan kompaniya bo'lib, bugungi kunda qurilish bozorida kuchli mavqega ega. Strategiyani to'g'ri tanlang",
+    "readmore": "Davomini o'qish",
+    "opitny": "Tajribali kadrlar",
+    "pravila": "Qoidalarga rioya qilish",
+    "newTechnologies": "Yangi texnologiyalar",
+    "deadline": "Belgilangan muddatlarda ishlash",
+    "opitnyDesc": "Ishchilar o'z ishlariga ko'p kuch singdiradilar.",
+    "pravilaDesc": "Biz mijoz bilan shartnoma asosida ishlaymiz.",
+    "newTechnologiesDesc": "Biz yangi texnologiyalarni joriy etishga intilamiz.",
+    "deadlineDesc": "Biz loyihalarni o'z vaqtida bajarishga intilamiz."
+  },
+  "News": {
+    "title": "Yangiliklar",
+    "news1": "Construction Asia | Yangi loyiha",
+    "title1": "O'zbekiston Respublikasi tog'-kon sanoati va geologiyasi vazirligi xuzuridagi to’g-kon, geologiya va sanoat xavfsizligi nazorat qilish inspeksiyasidan ruxsatnomalar olindi. ",
+    "text1": "CONSTRUCTION ASIA  qo'shma korxonasi ish sifatini oshirish maqsadida O'zbekiston Respublikasi tog'-kon sanoati va geologiyasi vazirligi xuzuridagi to’g-kon, geologiya va sanoat xavfsizligi nazorat qilish inspeksiyasi tomonidan Portlash xavfi bo'lgan texnologik yangi jarayonlari va asbob uskunalarni, istiroxat bog'lari attraksionlarini montaj qilish, ta'mirlash va ishga tushirish, va xavfli ishlab chiqarish obyektlarida qo'llaniladigan texnik qurilmalardan foydalanishda Qozon-boyler, Qozon-utilizator bug’qizdirgich va ekonomayzelar, suv isitish qozonlari uchun Yuqori o'rta va past bosimli yer osti va usti gaz quvurlarini o'rnatish va ta'mirlash uchun ruxsatnomalar oldi.",
+    "title2": "Yangi texnikalar xarid qilindi. ",
+    "text2": "Korxonamiz mashina mexanizm texnik bazasining ish unumdorligini oshirish maqsadida yangi HOWO T5G 32T lik avtosomosvallarni va HOWO MIKSER 12М3 beton qorgichni xarid qildi.",
+    "title3": "O‘zbekiston Respublikasi Konstitutsiyasi kuni muborak bo‘lsin!",
+    "text3": "1992-yil 8-dekabrda qabul qilingan O‘zbekiston Konstitutsiyasi davlat tuzilishining huquqiy asoslarini belgilab beruvchi, respublikaning har bir fuqarosining huquq va erkinliklarini kafolatlaydigan asosiy hujjatdir.Bugun jamiyatimizdagi tinchlik-osoyishtalik, barqarorlik, totuvliklikning qadr-qimmatini, Konstitutsiyamizda belgilab qo‘yilgan mustahkam poydevor tufayli erishilgan O‘zbekistonning iqtisodiyot, ta’lim, ilm-fan va madaniyatni rivojlantirish borasidagi yutuqlarini eslash uchun ajoyib fursatdir. Har birimiz Konstitutsiyamiz tamoyillariga amal qilib, yanada adolatli, farovon va barkamol jamiyatga intilib, O‘zbekiston taraqqiyotiga o‘z hissamizni qo‘shaylik.",
+    "title4": "Kirib kelayotgan yangi — 2024-yil muborak bo‘lsin!",
+    "text4": "Aziz va muhtaram yurtdoshlar, qadrli do`stlar! \r\nSizlarni kirib kelayotgan yangi 2024-yil bilan samimiy muborakbod etamiz!\r\n Yangi yil Siz azizlarga ulkan muvaffaqiyatlar, baxtu-saodat, tinchlik-xotirjamlik, sihat-salomatlik va xonadonlaringizga fayzu-baraka olib kelsin! \r\n Aziz yurtdoshlar, yurt tinchligi, Vatan ravnaqi va xalq farovonligi yo`lida olib borayotgan sermazmun va fidokorona mehnatingizda omad va zafarlar doimo yor bo`lsin!",
+    "title5": "14-yanvar \"Vatan himoyachilari kuni\" muborak bo‘lsin!",
+    "text5": "Aziz vatandoshlar, hamkasblar va hamkorlar! 14-yanvar Vatan himoyachilari kuni muborak bo‘lsin. Barchani ushbu bayram bilan tabriklaymiz.",
+    "title6": "Navro‘z muborak bo‘lsin!",
+    "text6": "Aziz yurtdoshlar  va qadrli hamkasblar! Sizlarni \"CONSTRUCTION ASIA\" korxonasi nomidan ezgulik, nafosatm yasharish, yangilanish va mehr-oqibat ayyomi bo'lmish Navro‘z umumxalq bayrami bilan samimiy muborakbod etamiz.",
+    "title7": "O‘zbekiston Respublikasi Mustaqilligining 33 yillik bayrami muborak bo‘lsin!",
+    "text7": "Aziz va muhtaram yurtdoshlar, qadrli hamkasblar! Sizlarni O‘zbekiston Respublikasi Mustaqilligining 33 yillik bayrami bilan chin qalbdan tabriklaymiz. \n 1-sentabr – xalqimizga yangi davrni boshlab bergan bu qutlug‘ sana vatanimiz taraqqiyoti va  ravnaqi ramziga aylangan. Ezgu intilishlarga qanot bag‘ishlovchi ham, inson manfaatlari yo‘lidagi islohotlar muvaffaqiyatini ta’minlovchi qudratli kuch ham – mustaqillikdir.Shunday ekan, ko‘p millatli xalqimizni O‘zbekiston Respublikasi Mustaqilligining  33 yilligi  munosabati bilan samimiy qutlaymiz! Barchangizga mustahkam sog‘liq, xotirjamlik va farovonlik tilab qolamiz. Mustaqilligimiz abadiy boʻlsin! Hurmat bilan, \"CONSTRUCTION ASIA\"",
+    "title8": "Yong'in xavfsizligi bo‘yicha diplomlar topshirildi",
+    "text8": "Jamoamiz a'zolari \"Yong'in va qo'riqlash xavfsizligi sohasida qayta tayyorlash\" kursini muvaffaqiyatli yakunlab, tegishli diplomlarni qo'lga kiritdilar. Ushbu kurs xavfsizlik bo'yicha bilim va ko'nikmalarni mustahkamlashga qaratilgan bo'lib, jamoamizga yanada yuqori darajadagi xizmatlarni taqdim etish imkonini beradi.",
+    "title9": "Yangi yilingiz bilan!!!",
+    "text9": "Aziz yurtdoshlar! Barchangizni kirib kelayotgan yangi 2025-yil bilan \"CONSTRUCTION ASIA\" jamoasi nomidan tabriklaymiz.Yangi yilda sizga va oila a’zolaringizga baxt, omad, sihat salomatlik tilaymiz. Tinchlik, xotirjamlik doimo hamrohingiz bo‘lsin. Yurtimiz tinch va osoyishta bo‘lsin. Yangi yilingiz muborak bo‘lsin! Kirib kelayotgan yangi yilingiz muborak bo‘lsin.",
+    "readmore": "Batafsil..."
+  },
+  "OurService": {
+    "Title": "XIZMATLARIMIZ",
+    "readMore": "Batafsil ma'lumot",
+    "titleService1": "Qurilish, montaj va demontaj ishlari",
+    "titleService2": "Mashina va mexanizmlarning xizmatlari"
+  },
+  "CorruptionText": {
+    "title": "KORRUPTSIYAGA QARSHI KURASHISH SIYOSATI"
+  },
+  "SertificateText": {
+    "title": "Sertifikatlar"
+  },
+  "Diploma": {
+    "title": "Diplomlar",
+    "text1": "Jamoamiz a'zolari \"Yong'in va qo'riqlash xavfsizligi sohasida qayta tayyorlash\" kursini muvaffaqiyatli tamomladilar va diplomlarni qabul qilib oldilar. Ushbu malaka oshirish kursi xavfsizlik sohasidagi bilim va ko'nikmalarni yanada rivojlantirishga xizmat qiladi."
+  },
+  "LicenceText": {
+    "title": "Litsenziyalar",
+    "licence1": "Portlash xavfi bo'lgan texnologik yangi jarayonlari va asbob uskunalarni, istiroxat bog'lari attraksionlarini montaj qilish, ta'mirlash va ishga tushirish, va xavfli ishlab chiqarish obyektlarida qo'llaniladigan texnik qurilmalardan foydalanish uchun ruxsatnoma",
+    "licence2": "Yuqori o'rta va past bosimli yer osti gaz quvurlarini o'rnatish va ta'mirlash uchun ruxsatnoma",
+    "licence3": "Yuqori o'rta va past bosimli yer usti gaz quvurlarini o'rnatish va ta'mirlash uchun ruxsatnoma",
+    "licence5": "Portlash xavfi bo‘lgan texnologik yangi jarayonlar va asbob-uskunalarni, istirohat bog‘lari attraksionlarini montaj qilish, ta’mirlash va ishga tushirish, shuningdek, xavfli ishlab chiqarish obyektlarida qo‘llaniladigan texnik qurilmalardan foydalanish uchun ruxsatnoma"
+  },
+  "PartnerTexts": {
+    "Title": "Hamkorlarimiz"
+  },
+  "Employers": {
+    "mainTitle": "BIZNING XODIMLARIMIZ",
+    "AllList": "To'liq ro'yxat",
+
+    "xurramiddinData": {
+      "name": "Xurramov Alisher To'rayevich",
+      "job": "Bosh muhandis",
+      "desc": "Mutaxassisligi - pardozlash ishlari. Qurilishda 17 yillik ish tajribasiga ega . Alisher Navoiy nomidagi  Milliy kutubxona, HYATT Regency Tashkent mehmonxonasi, Alisher Navoiy  nomidagi  Davlat akademik katta teatri, Prezident akademiyasi, Mudofaa vazirligining Harbiy akademiyasi, Prezident I.Karimovning Samarqanddagi maqbarasi, Pediatriya institutining Nukus filiali qurilishlarida qatnashgan."
+    },
+
+    "atametovData": {
+      "name": "Atametov Xusniddin Nuriddinovich",
+      "job": "Maslahatchi",
+      "desc": "Kompaniyamiz tashkil topganidan beri ishlaydi. Qurilish sohasida 36 yillik  tajribaga ega. U oddiy ishchidan boshqaruvchigacha martaba o'sishining barcha bosqichlarini bosib o'tdi. U Mudofaa vazirligining Harbiy akademiyasi, Prezident akademiyasi, O'zbek tili va adabiyoti universiteti, Vazirlar Mahkamasi binosini qayta qurish, Senat binosini qurish, G'aznachilikni rekonstruktsiya qilish, Bunyodkor stadionini qurish, HYATT Regency Tashkent mehmonxonasini qurish, Vazirlik binosini qayta qurish, General Motors Powertrain zavodini qurish kabi obyektlarda yetakchi bo'lgan. "
+    },
+    "umarovRustamData": {
+      "name": "Umarov Rustam Alisherovich",
+      "job": "Iqtisodiy ishlar bo'yicha direktor o'rinbosari",
+      "desc": "Mutaxassisligi - umumiy qurilish ishlari. Qurilish sohasida 15 yillik ish tajribasiga ega. Forumlar saroyi, Bunyodkor stadioni, Vestminster universiteti, Prezident akademiyasi, HYATT Regency Tashkent mehmonxonasi, Vazirlar Mahkamasi huzuridagi Oliy biznes maktabi va Peugeot-Citroen avtomobil zavodini  qurilish ishlarida  qatnashgan.  "
+    },
+    "siddiqovAbrorData": {
+      "name": "Siddiqxo'jaev Abrorxon \r\n Yorixon o'g'li",
+      "job": "Bosh muhandis",
+      "desc": "Mutaxassisligi - muhandislik kommunikatsiyalari. Qurilishda 9 yillik ish tajribasiga ega. U Minor masjidi, Vazirlar Mahkamasi huzuridagi Oliy biznes maktabi, HYATT Regency Tashkent mehmonxonasi,  Ko'ksaroy Prezident qabul uyini qurish va Iqtisodiyot vazirligi binosi rekonstruksiyasi kabi ishlarni bajarishda ishtirok etdi."
+    },
+
+    "maxmudovData": {
+      "name": "Maxmudov Temur Alisher o'g'li",
+      "job": "Direktor",
+      "desc": "Kompaniyamiz tashkil topganidan beri ishlaydi. Mutaxasisligi – Iqtisodiyot yo’nalishi. Qurilishda 9 yillik ish tajribasiga ega. U o’z ish faoliyatini Vazirlar Mahkamasi binosini qayta qurish, Mudofaa vazirligining Harbiy akademiyasi qurilishi , Iqtisodiyot Vazirligi binosi rekonstruksiyasi, HYATT Regency mehmonxonasi qurilishi kabi obyektlarda turli lavozimlarda olib borgan."
+    },
+
+    "ismoilovData": {
+      "name": "Isroilov Sardor Zokir o’g’li",
+      "job": "Katta prorab(ish boshqaruvchi)        ",
+      "desc": "Mutaxassisligi - umumiy qurilish ishlari. Kompaniyamiz tashkil topganidan beri ishlaydi. Yosh bo'lishiga qaramay u o’zini maqsadga intiluvchan, ishni puxta va o’z vaqtida bajaruvchi mutaxassis sifatida ko'rsatdi. Bugungi kunda u transformator podstansiyalari, qozonxonalar va chiller xonalarini qurish va o'rnatish uchun javobgardir."
+    },
+    "artiqhujayevData": {
+      "name": "Artiqxo'jaev Saidmurod Saidamin o’g’li",
+      "job": "Texnik ishlab chiqarish bo’limi ishchisi",
+      "desc": "Qurilishdagi ish tajribasi-7 yil. U bizning ahil jamoamizga taxminan 3 yil oldin qo'shilgan. Barcha bo'limlarning bajargan ish hajmi uning qo'lidan o'tadi. U o'zini maqsadga intiluvchan, malakali mutaxassis sifatida namoyon etdi."
+    },
+    "shoyusufovData": {
+      "name": "Shayusupov Odiljan Talipovich",
+      "job": "Bosh buxgalter (xisobchi)",
+      "desc": "Mutaxassisligi - buxgalteriya hisobi. Qurilishdagi ish tajribasi-37 yil. Jamoamizning eng tajribali mutaxassislaridan biri. U mamlakatdagi eng yirik qurilish kompaniyalaridan birida bosh xisobchi bo'lib ishlagan. U bizning jamoamizga yaqinda qo'shildi, ammo shunda ham biz kompaniyamizning moliyaviy faoliyatga ishonchimiz komil"
+    },
+    "qurbonovData": {
+      "name": "Kurbanov Alisher",
+      "job": "Ishlab chiqarish bo'yicha direktor o'rinbosari",
+      "desc": "“Bunyodkor” stadioni qurilishi, Hamza nomidagi drama teatrini rekonstruksiya qilish, Urganch shahrida hukumat qabulxonasi qurilishi, Jizzaxda O‘zPCA avtomobil zavodi qurilishi va boshqalar."
+    },
+    "qodirovData": {
+      "name": "Qodirov Maxammadjon Foziljon o’g’li",
+      "job": "Mexanik muhandis",
+      "desc": ""
+    },
+    "latipovData": {
+      "name": "Latipov Raximboy Polvonovich",
+      "job": " Geodezist",
+      "desc": ""
+    },
+    "tanikulovData": {
+      "name": "Taniqulov Almazbek Rustam o’g’li",
+      "job": "Prorab",
+      "desc": ""
+    },
+    "akkulovData": {
+      "name": "Akkulov Burxon Abdujabborovich",
+      "job": "Katta ish boshqaruvchi",
+      "desc": ""
+    },
+    "razbekovData": {
+      "name": "Razbekov Davron Xalilbekovich",
+      "job": "Mehnatni muhofaza qilish va xavfsizlik bo'yicha muhandis",
+      "desc": ""
+    },
+    "sobirovData": {
+      "name": "Sobirov Muzaffar Murod o’g’li",
+      "job": "Materiallar bo'yicha hisobchi",
+      "desc": ""
+    },
+    "rustamovData": {
+      "name": "Rustamov Ixtiyor Baxtiyorovich",
+      "job": "Prorab (qurilish ishlari bo'yicha mutaxassis)",
+      "desc": ""
+    },
+    "turdimatovData": {
+      "name": "Turdimatov Foziljon Odiljon o’g’li",
+      "job": "Suv ta'minoti va kanalizatsiya muhandisi",
+      "desc": ""
+    },
+    "qudratovData": {
+      "name": "Qudratov Shoxrux Shuhrat o’g’li",
+      "job": "Prorab",
+      "desc": ""
+    },
+    "vaxobovData": {
+      "name": "Vahobov Javoxir Qodir o’g’li",
+      "job": "Prorab",
+      "desc": ""
+    },
+    "xodjayevData": {
+      "name": "Xodjayev Abror Zaidovich",
+      "job": "Prorab (kam kuchlanishli tizimlar mutaxassisi)",
+      "desc": ""
+    },
+    "rayimberdiyevData": {
+      "name": "Rayimberdiyev Ma'rifjon Hasanboy o’g’li",
+      "job": "Dispetcher",
+      "desc": ""
+    },
+    "nurmatovData": {
+      "name": "Nurmatov Muhamadali Rustamjon o’g’li",
+      "job": "Muhandis(Texnik ishlab chiqarish bo’limi ishchisi)",
+      "desc": ""
+    },
+    "pulatovData": {
+      "name": "Po’latov Abduvohid Abdumannopovich",
+      "job": "Suv ta'minoti va kanalizatsiya muhandisi",
+      "desc": ""
+    }
+  },
+  "AboutPage": {
+    "Content": "MChJ QK CONSTRUCTION ASIA - bu O'zbekiston Respublikasida yosh va jadal rivojlanayotgan kompaniya bo'lib, bugungi kunda qurilish bozorida kuchli  mavqega  ega. Strategiyani to'g'ri tanlanganligi,  to'g'ri  moliyaviy siyosat, sivilizatsiyalashgan biznes qadriyatlariga ahamiyat berilganligi tufayli, kompaniyamiz kuchli va ishonchli sherik ekanligini isbotladi. Eng yaxshi materiallar va texnologiyalardan foydalangan holda zamonaviy uskunalarga ega bo'lgan Kompaniyamiz  ishlarni  yuqori sifatda bajarilishini ta'minlaydi. Faoliyatimizda biz mijozlarimiz bilan uzoq muddatli, o'zaro manfaatli munosabatlarni o'rnatishga alohida e'tibor qaratamiz. MChJ QK  CONSTRUCTION ASIA O'zbekistondagi qurilish bozorini rivojlantirish bo'yicha yangi loyihalarni amalga oshirishga qaratilgan. Biz mahalliy va xorijiy ishlab chiqaruvchilar bilan faol hamkorlik qilmoqdamiz, bu esa uskunalar, butlovchi qismlar va materiallarning keng qatoridan foydalangan holda,  xaridorlarning ehtiyojlarini  maksimal darajada qondirish  imkoniyatini beradi. Biz o'z ishimizda O'zbekiston Respublikasining qonunlariga va qurilish me'yorlari va qoidalariga qat'iy rioya qilamiz. Faoliyatimizning ustuvor tamoyillaridan biri - har bir mijozga individual yondashishdir.",
+    "ChartTitle": "Qurilish tashkilotlarining elektron reytingi",
+    "Reyting": "Reyting:",
+    "totalCount": "Qurilish tashkilotlarining umumiy soni:",
+    "kolichestvo": "Qurilish tashkilotlari soni"
+  },
+  "Contacts": {
+    "adress": "Manzil:",
+    "fax": "Faks:",
+    "callCenter": "Call center:",
+    "locationInfo1": "Chilonzor tumani, Janubi-g'arbiy sanoat zonasi,",
+    "locationInfo2": "Bunyod ko'chasi, 44-uy"
+  },
+  "machineService": {
+    "title": "Mashinalar va mexanizmlarning xizmatlari",
+    "bobcat": "Bobcat mini yuklagichi",
+    "DOOSAN": "DOOSAN DX160W g'ildirakli ekskavator",
+    "DYNAPAC": "DYNAPAC CA 2500D  tuproq roligi",
+    "ISUZU": "ISUZU FVR 33 PLX avtoulovi",
+    "JCB": "JCB 3CX 14M2WM yuklovchi ekskavator",
+    "LIEBHERR": "LIEBHERR A904 g'ildirakli ekskavator",
+    "LIEBHERR2": "LIEBHERR R924 zanjirli ekskavator",
+    "manTgs1": "MAN TGS 33.360, 6x4 BB- 20 tn avtosamosval",
+    "manTgs2": "MAN TGS 40.400, 6x4 BB-25 tn avtosamosval",
+    "manTgs3": "MAN-SCTF-U334.01 konteynerli yarim tirkamali avtoulov MAN TGS 26.400 6x4 BLS",
+    "SANY": "SANY SYM5333JQZ avtokrani",
+    "Shacman": "Shacman suv tashuvchisi",
+    "VodovozShacman": "Shacman suv tashuvchisi",
+    "shantui": "SHANTUI SD 22  buldozeri",
+    "dewalon": "DEWALON SD 300 g'ildirakli yuklagich",
+    "howo": "HOWO MIKSER 12М3",
+    "howo10m": "HOWO MIKSER 10М3",
+    "diamondBox": "Kompaniyaning qurilish uskunalari butunlay yangi, bu ularni ikki yoki uch smenada ishlatilishiga imkon beradi.",
+    "elkon": "ELKON beton aralashtirish moslamasi",
+    "howot5g": "HOWO T5G (6X4) samosval, 400 o.k. 25 kubometr",
+    "hyundaiR60w9s": "G'ildirakli ekskavator Hyundai R60W-9S"
+  },
+  "ProjectsPage": {
+    "title": "Loyihalar",
+    "desc": ""
+  },
+  "Projects": {
+    "xafsizlikuniver": "O‘ZBEKISTON RESPUBLIKASI JAMOAT XAVFSIZLIGI UNIVERSITETI - Ma’naviyat va ma’rifat markazi",
+    "xafsizlikuniverDesc": "",
+    "xafsizlikuniverB": "O‘ZBEKISTON RESPUBLIKASI JAMOAT XAVFSIZLIGI UNIVERSITETI - B blok",
+    "xafsizlikuniverBDesc": "",
+    "chiller": "O‘ZBEKISTON RESPUBLIKASI JAMOAT XAVFSIZLIGI UNIVERSITETI - CHILLER TIZIMI",
+    "chillerDesc": "",
+    "huquqakademiya": "O‘ZBEKISTON RESPUBLIKASI HUQUQNI MUHOFAZA QILISH AKADEMIYASI",
+    "huquqakademiyadesc": ""
+  },
+  "RepairPage": {
+    "title": "QURILISH, MONTAJ VA DEMONTAJ ISHLARI",
+    "desc": "Tajribali malakali mutaxassislarning mavjudligi bizga keng ko'lamli qurilish-montaj ishlarini bajarishga imkon beradi"
+  },
+  "RepairServices": {
+    "earthWork": "Yer ishlari",
+    "earthWorkDesc": "Yer ishlari, tuproqni qayta ishlash - tuproqni ishlab chiqarish, ko'chirish, yotqizish va zichlashni o'z ichiga olgan ishlar; qurilish ishlarining tarkibiga kiradi.",
+    "BetonWork": "Beton ishlari",
+    "BetonWorkDesc": "Poydevor, ustunlar, devorlar, pollar, tayanch devorlari va boshqalar kabi inshootlarni qurish ishlari.",
+    "TomYopish": "Tom qurish",
+    "TomYopishDesc": "Har xil turdagi tomlarni qurish ishlari.",
+    "MontajElement": "Konstruksiya elementlarini o'rnatish",
+    "MontajElementDesc": "Binolarning ustki qismikonstruktsiyasining elementlarini , shu jumladan ustunlar, ramalar, rigellar,  to'sinlar, plitalar, kamarlar, devor panellari va to'siqlarini o'rnatish.",
+    "MontajMetal": "Metall konstruksiyalarni o'rnatish",
+    "MontajMetalDesc": "Metall konstruksiyalar katta oraliqdagi bir qavatli binolarni, og'ir tipdagi sanoat binolari uchun karkaslarni, ko'p qavatli binolar uchun karkaslarni, rezervuarlar, gazgolderlar, turli xil texnologik konstruksiyalar va boshqalarni  qurishda ishlatiladi.",
+    "IchkiTarmoq": "Maydon ichidagi tarmoqlar ",
+    "IchkiTarmoqDesc": "Maydon ichidagi tarmoqlar (suv ta'minoti, kanalizatsiya, issiqlik ta'minoti, sovuq suv ta'minoti, tashqi yoritish, past kuchlanishli elektr uzatish liniyalari, sug'orish, quduq, kabel tizimi) tegishli resurslarni yetkazib berishni ta'minlaydigan muhandislik-texnik ta'minot tarmoqlari, elektr tarmoqlari va aloqa tarmoqlari, ularni joylashtirish kapital qurilish ob'ektlarining yer uchastkalarida amalga oshiriladi.",
+    "MontajTrans": "Transformator podstansiyalarini o'rnatish",
+    "MontajTransDesc": "KTP elektr ta'minoti tizimning to'g'ri ishlashi uchun zarur. To'liq transformator podstansiyasini o'rnatish qurilish turiga, ulangan elektr uzatish liniyalariga va landshaft xususiyatlariga bog'liq",
+    "MontajKotelnik": "Qozonxonalarni o'rnatish",
+    "MontajKotelnikDesc": "Qozon uskunalarini (bug ', issiq suv), qozonxona binolarida o'rnatish: - issiqlik va mexanik uskunalar; \n- gaz uskunalari; \n- qozonxona suvini tozalash tizimini jihozlash; \n- elektr jihozlari; \n- yong'in va xavfsizlik signalizatsiya tizimining jihozlari va qurilmalari; \n- isitish, shamollatish, suv ta'minoti va kanalizatsiya tizimlari jihozlash; \n- metall quvirlar; \n- qozonxonaning yoqilg'i tejamkorligi; \n- qozonxonalarning binolari va inshootlarini o'rnatish.",
+    "MontajChillerov": "Sovutkichlarni o'rnatish",
+    "MontajChillerovDesc": "Sovutkichlarni o'rnatish - bu yuqori malakali mutaxassislarni talab qiladigan murakkab ish turi. Konditsioner tizimining qanchalik samarali bo'lishi va qancha vaqt ishlashi o'rnatishga bog'liq. Sovutkichni quvvat manbai va gidravlik zanjirga ulash uskunani o'rnatishning eng qiyin qismidir. Ushbu bosqichda ishlab chiqaruvchining ko'rsatmalariga va amaldagi texnik reglamentlarga to'liq rioya qilish kerak.",
+    "Teplo": "Ichki iqlim ta'minoti",
+    "TeploDesc": "Konditsioner va shamollatish tizimlari har qanday binoning ajralmas qismi va ichki iqlimni yaratishda hal qiluvchi omil hisoblanadi.",
+    "ElektroPitaniya": "Ichki elektr ta'minoti",
+    "ElektroPitaniyaDesc": "Ob'ektning uzluksiz ishlashini ta'minlash uchun qurilmangizning barcha xususiyatlarini hisobga olgan holda elektr ta'minoti tarmog'ini yaratishingiz kerak. ",
+    "Vodosnab": "Ichki suv ta'minoti va kanalizatsiya",
+    "VodosnabDesc": "Suv ta'minoti tizimlari, shuningdek kanalizatsiya tarmoqlari xususiy uylar, ko'p qavatli turar-joy binolari, kichik va yirik korxonalar, shuningdek ma'muriy binolar va boshqa binolarga texnik xizmat ko'rsatish.",
+    "Slabotochny": "Past-oqim tizimi",
+    "SlabotochnyDesc": "Ma'lumotlarni to'plash, qayta ishlash va uzatish funktsiyalarini bajaradigan, uning chegaralari ichida elementlarning ishlashi zaif elektr toklari bilan ta'minlanadigan texnik tizim. Kam oqimlarning simli tizimi deganda asosan umumiy ma'lumotni uzatish uchun mo'ljallangan bino yoki binolar majmuasidagi kanallar, marshrutlar, kabellar, xochlar, kommutatsiya elementlari va texnik xonalar to'plami tushuniladi.",
+    "Puskonalny": "Komissiya ishlari",
+    "PuskonalnyDesc": "Individual sinovlarni tayyorlash, o'tkazish va jihozlarni kompleks sinovdan o'tkazish jarayonida bajariladigan ishlar to'plami. Ishga tushirishdan oldin o'rnatilgan uskunada nozikroq va batafsilroq sozlash ishlari olib borildi.",
+    "OtdelochnixRabot": "Binoning tashqi ko'rinishi",
+    "OtdelochnixRabotDesc": "Binodagi pardozlash ishlari qurilishda eng muhim bosqichdir, chunki xonaning ko'rinishi, uning atmosferasi natijada odamlarning kayfiyatiga ta'sir o'tkazadi."
+  }
+}
