@@ -233,8 +233,8 @@
     "manTgs1": "MAN TGS 33.360, 6x4 BB- 20 tn avtosamosval",
     "manTgs2": "MAN TGS 40.400, 6x4 BB-25 tn avtosamosval",
     "manTgs3": "MAN-SCTF-U334.01 konteynerli yarim tirkamali avtoulov MAN TGS 26.400 6x4 BLS",
-    "SANY": "SANY SYM5333JQZ avtokrani",
-    "Shacman": "Shacman suv tashuvchisi",
+    "SANY": "SANY SYM5333JQZ avtokrani yuk ko'tarish qobilyati-30t",
+    "Shacman": "Manipulator Shacman",
     "VodovozShacman": "Shacman suv tashuvchisi",
     "shantui": "SHANTUI SD 22  buldozeri",
     "dewalon": "DEWALON SD 300 g'ildirakli yuklagich",
@@ -243,7 +243,15 @@
     "diamondBox": "Kompaniyaning qurilish uskunalari butunlay yangi, bu ularni ikki yoki uch smenada ishlatilishiga imkon beradi.",
     "elkon": "ELKON beton aralashtirish moslamasi",
     "howot5g": "HOWO T5G (6X4) samosval, 400 o.k. 25 kubometr",
-    "hyundaiR60w9s": "G'ildirakli ekskavator Hyundai R60W-9S"
+    "hyundaiR60w9s": "G'ildirakli ekskavator Hyundai R60W-9S",
+    "shackmanX3000": "Мikser  SHACMAN Х3000, 10 kub, EURO V, 2025-yil 2 dona",
+    "sanySTC500": "SANY STC 500 avtokrani yuk ko'tarish qobilyati-50t",
+    "IsuzuNPR82L": "Avtosamosval ISUZU NPR 82L CNG ",
+    "gazelNext": "Gazel-Next Yevrofurgon",
+    "gazelBiznes": "Bortli avtomobil GAZel Biznes",
+    "elkonElcomix135": "Beton aralashtirish moslamasi ELKON-ELKOMIX 135 QUICK MASTER",
+    "devalonDX160": "G'ildirakli ekskavator DEVELON dx160w",
+    "changanxinbaoT3": "Mini-yuk mashinasi CHANGAN XINBAO T3"
   },
   "ProjectsPage": {
     "title": "Loyihalar",
@@ -257,7 +265,9 @@
     "chiller": "O‘ZBEKISTON RESPUBLIKASI JAMOAT XAVFSIZLIGI UNIVERSITETI - CHILLER TIZIMI",
     "chillerDesc": "",
     "huquqakademiya": "O‘ZBEKISTON RESPUBLIKASI HUQUQNI MUHOFAZA QILISH AKADEMIYASI",
-    "huquqakademiyadesc": ""
+    "huquqakademiyadesc": "",
+    "huquqakademiya2": "O‘ZBEKISTON RESPUBLIKASI HUQUQNI MUHOFAZA QILISH AKADEMIYASI 2 qavatli o‘quv binosi",
+    "huquqakademiya2desc": ""
   },
   "RepairPage": {
     "title": "QURILISH, MONTAJ VA DEMONTAJ ISHLARI",

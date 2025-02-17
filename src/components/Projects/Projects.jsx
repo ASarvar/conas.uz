@@ -1,13 +1,51 @@
 import React from "react";
 import { Col, Row, Container } from "react-bootstrap";
-import "./projects.css";
-import "./projects_img.scss";
-import "../About/AboutCompany";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
+import "./projects.css";
+import "./projects_img.scss";
 
 const Projects = () => {
   const { t } = useTranslation();
+
+  // Project data stored in an array for scalability
+  const projectData = [
+    {
+      id: "01",
+      slug: "xafsizlikuniver",
+      imgClass: "imgBox_1",
+      titleKey: "Projects.xafsizlikuniver",
+      descKey: "Projects.xafsizlikuniverDesc",
+    },
+    {
+      id: "02",
+      slug: "huquqakademiya",
+      imgClass: "imgBox_2",
+      titleKey: "Projects.huquqakademiya",
+      descKey: "Projects.huquqakademiyadesc",
+    },
+    {
+      id: "03",
+      slug: "xafsizlikuniverB",
+      imgClass: "imgBox_3",
+      titleKey: "Projects.xafsizlikuniverB",
+      descKey: "Projects.xafsizlikuniverBDesc",
+    },
+    {
+      id: "04",
+      slug: "chiller",
+      imgClass: "imgBox_4",
+      titleKey: "Projects.chiller",
+      descKey: "Projects.chillerDesc",
+    },
+    {
+      id: "05",
+      slug: "huquqakademiya2",
+      imgClass: "imgBox_5",
+      titleKey: "Projects.huquqakademiya2",
+      descKey: "Projects.huquqakademiya2desc",
+    },
+  ];
 
   return (
     <div className="StaffContent">
@@ -23,70 +61,17 @@ const Projects = () => {
           </Col>
         </Row>
         <Row>
-          <Col lg="4" md="6" sm="12">
-          <Link className="linkk" to="/project_01" >
-            <div className="CartBox1">
-              <div className="imgBox imgBox_1 ">
-                {/* <div className="bottomElements">
-                  <div className="cardNumber">01</div>
-                  <div className="cardLine"></div>
-                </div> */}
-              </div>
-              <div className="cardTitle">{t("Projects.xafsizlikuniver")}</div>
-              <div className="cardDesc">
-              {t("Projects.xafsizlikuniverDesc")}
-              </div>
-            </div>
-            </Link>
-          </Col>
-          <Col lg="4" md="6" sm="12">
-          <Link className="linkk" to="/project_02" >
-            <div className="CartBox1">
-              <div className="imgBox imgBox_2 ">
-                {/* <div className="bottomElements">
-                  <div className="cardNumber">01</div>
-                  <div className="cardLine"></div>
-                </div> */}
-              </div>
-              <div className="cardTitle">{t("Projects.huquqakademiya")}</div>
-              <div className="cardDesc">
-              {t("Projects.huquqakademiyadesc")}
-              </div>
-            </div>
-            </Link>
-          </Col>
-          <Col lg="4" md="6" sm="12">
-          <Link className="linkk" to="/project_03" >
-            <div className="CartBox1">
-              <div className="imgBox imgBox_3 ">
-                {/* <div className="bottomElements">
-                  <div className="cardNumber">01</div>
-                  <div className="cardLine"></div>
-                </div> */}
-              </div>
-              <div className="cardTitle">{t("Projects.xafsizlikuniverB")}</div>
-              <div className="cardDesc">
-              {t("Projects.xafsizlikuniverBDesc")}
-              </div>
-            </div>
-            </Link>
-          </Col>
-          <Col lg="4" md="6" sm="12">
-          <Link className="linkk" to="/project_04" >
-            <div className="CartBox1">
-              <div className="imgBox imgBox_4 ">
-                {/* <div className="bottomElements">
-                  <div className="cardNumber">01</div>
-                  <div className="cardLine"></div>
-                </div> */}
-              </div>
-              <div className="cardTitle">{t("Projects.chiller")}</div>
-              <div className="cardDesc">
-              {t("Projects.chillerDesc")}
-              </div>
-            </div>
-            </Link>
-          </Col>
+          {projectData.map((project) => (
+            <Col key={project.id} lg="4" md="6" sm="12">
+              <Link className="linkk" to={`/project/${project.slug}`}>
+                <div className="CartBox1">
+                  <div className={`imgBox ${project.imgClass}`}></div>
+                  <div className="cardTitle">{t(project.titleKey)}</div>
+                  <div className="cardDesc">{t(project.descKey)}</div>
+                </div>
+              </Link>
+            </Col>
+          ))}
         </Row>
       </Container>
     </div>

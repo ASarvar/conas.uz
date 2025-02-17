@@ -59,7 +59,7 @@
     "react-jivosite": "^1.0.0",
     "react-lazy-load-image-component": "^1.5.1",
     "react-photo-gallery": "^8.0.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "4.0.3",
     "react-share": "^4.4.0",
     "react-snowfall": "^1.2.1",
@@ -90,5 +90,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
   }
 }

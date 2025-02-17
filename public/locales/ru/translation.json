@@ -230,7 +230,7 @@
     "manTgs1": "Автосамосвал MAN TGS 33.360, 6x4 BB – 20 тн",
     "manTgs2": "Автосамосвал MAN TGS 40.400, 6x4 BB – 25 тн",
     "manTgs3": "Тягач MAN TGS 26.400 6х4 BLS с полуприцепом контейнеровозом бортовым MAN UAT–SCTF-U334.01",
-    "SANY": "Автокран SANY SYM5333JQZ",
+    "SANY": "Автокран SANY SYM5333JQZ грузоподъёмность 30тн",
     "Shacman": "Манипулятор Shacman",
     "VodovozShacman": "Водовоз Shacman",
     "shantui": "Бульдозер SHANTUI SD 22",
@@ -240,7 +240,15 @@
     "diamondBox": "Строительная техника компании совершенно новая, что позволяет эксплуатировать её в две, а также в три смены.",
     "elkon": "Бетонные-смесительный узел ELKON",
     "howot5g": "Самосвал HOWO T5G (6X4), 400 л.с. 25 куб.м",
-    "hyundaiR60w9s": "Колесный экскаватор Hyundai R60W-9S"
+    "hyundaiR60w9s": "Колесный экскаватор Hyundai R60W-9S",
+    "shackmanX3000": "Автобетоносмеситель газовый, SHACMAN Х3000, 10 куб,EURO V, 2025 2 шт",
+    "sanySTC500": "Автокран SANY STC 500 грузоподъёмность 50тн",
+    "IsuzuNPR82L": "САМОСВАЛ ISUZU NPR 82L (CNG)",
+    "gazelNext": "Газель-Next Еврофургон",
+    "gazelBiznes": "Бортовой автомобиль ГАЗель Бизнес",
+    "elkonElcomix135": "Бетонные-смесительный узел ELKON-ELKOMIX 135 QUICK MASTER",
+    "devalonDX160": "Экскаватор колесный DEVELON dx160w ",
+    "changanxinbaoT3": "Мини-грузовик CHANGAN XINBAO T3"
   },
   "ProjectsPage": {
     "title": "Проекты",
@@ -254,7 +262,9 @@
     "chiller": "УНИВЕРСИТЕТ ОБЩЕСТВЕННОЙ БЕЗОПАСНОСТИ РЕСПУБЛИКИ УЗБЕКИСТАН - ЧИЛЛЕР",
     "chillerDesc": "",
     "huquqakademiya": "ПРАВООХРАНИТЕЛЬНАЯ АКАДЕМИЯ РЕСПУБЛИКИ УЗБЕКИСТАН",
-    "huquqakademiyadesc": ""
+    "huquqakademiyadesc": "",
+    "huquqakademiya2": "ПРАВООХРАНИТЕЛЬНАЯ АКАДЕМИЯ РЕСПУБЛИКИ УЗБЕКИСТАН 2-этажное учебное здание",
+    "huquqakademiya2desc": ""
   },
   "RepairPage": {
     "title": "СТРОИТЕЛЬНО-МОНТАЖНЫЕ И ДЕМОНТАЖНЫЕ РАБОТЫ",
