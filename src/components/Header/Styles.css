@@ -1,40 +1,43 @@
 .absolut_nav {
-    
+
     z-index: 999;
     width: 100%;
-    background: url("../../assets/Header\ winter.png") no-repeat center;
-    background-size: cover!important;
+    background: url("../../assets/HeaderSpring.png") no-repeat center;
+    background-size: cover !important;
 }
+
 .custom-toggler .navbar-toggler-icon {
     background-image: url("../../assets/team1.svg");
-  }
+}
 
-  .navbar-expand-lg .navbar-collapse {
+.navbar-expand-lg .navbar-collapse {
     padding-top: 20px;
-  }
+}
+
 .menu_nav {
     z-index: 999;
     width: 100%;
-    background: url("../../assets/Header\ winter.png") no-repeat center;
-    background-size: cover!important;
+    background: url("../../assets/HeaderSpring.png") no-repeat center;
+    background-size: cover !important;
 }
 
-.toogleMenuIcon{
+.toogleMenuIcon {
     font-size: 30px;
     color: white;
 }
-.toogleBox{
-    padding:13px;
+
+.toogleBox {
+    padding: 13px;
     background: rgba(244, 244, 244, 0.05);
 }
 
-.navLinkDropdown{
+.navLinkDropdown {
     align-items: baseline !important;
     padding: 8px 8px;
 }
 
 
-.navLink  {
+.navLink {
     padding: 17px 15px !important;
     max-width: 200px;
     font-style: normal;
@@ -45,12 +48,13 @@
     color: #FFFFFF !important;
     opacity: 0.7;
 }
+
 .navLink:focus {
-    outline: none!important;
-    border: none!important;
-    background-color: none!important;
-    background: none!important;
-    box-shadow: none!important;
+    outline: none !important;
+    border: none !important;
+    background-color: none !important;
+    background: none !important;
+    box-shadow: none !important;
 }
 
 .slash {
@@ -65,15 +69,17 @@
     background: transparent;
     border: none;
 }
+
 .langAtribute:hover {
     background: transparent;
     border: none;
-    color:white;
+    color: white;
 }
+
 .langAtribute:active {
-    background:transparent!important;
-    border: none!important;
-    color:white!important;
+    background: transparent !important;
+    border: none !important;
+    color: white !important;
 }
 
 
@@ -129,9 +135,10 @@
     transform: scale(1.05);
     transition: 0.1s;
 }
+
 .sticky {
     position: fixed;
     top: 0;
     width: 100%;
     opacity: 0.95;
-  }
+}

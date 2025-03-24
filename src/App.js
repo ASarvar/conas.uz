@@ -82,7 +82,7 @@ function App() {
       </Switch>
     </Router> */}
       </>
-      <Snowfall
+      {/* <Snowfall
         style={{
           position: "fixed",
           width: "100vw",
@@ -92,7 +92,7 @@ function App() {
         snowflakeCount={300}
         wind={[-0.5, 2.0]}
         radius={[0.5, 2.5]}
-      />
+      /> */}
     </>
   );
 }

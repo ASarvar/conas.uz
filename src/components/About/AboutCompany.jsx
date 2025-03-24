@@ -24,8 +24,8 @@ const AboutCompany = () => {
       ],
       datasets: [
         {
-          label:t("AboutPage.kolichestvo"),
-          data: [0, 0, 1, 2, 22, 37, 136, 356, 758, 8233, 3205, 991],
+          label: t("AboutPage.kolichestvo"),
+          data: [0, 0, 1, 2, 44, 85, 186, 378, 702, 7433, 4152, 1198],
           fill: false,
           backgroundColor: [
             "rgba(255, 99, 132, 0.2)",
@@ -73,17 +73,19 @@ const AboutCompany = () => {
           </Col>
         </Row>
         <Row>
-          <h2 className="chartTitle">{t('AboutPage.ChartTitle')}</h2>
-          </Row>
-          <Row>
-            <h3 className="consAsia">CONSTRUCTION ASIA</h3>
-            </Row>
-          <Row>
-          <p className="reyting">{t('AboutPage.Reyting')} B</p>
-          </Row>
-          <Row>
+          <h2 className="chartTitle">{t("AboutPage.ChartTitle")}</h2>
+        </Row>
+        <Row>
+          <h3 className="consAsia">CONSTRUCTION ASIA</h3>
+        </Row>
+        <Row>
+          <p className="reyting">{t("AboutPage.Reyting")} BB</p>
+        </Row>
+        <Row>
           <Bar data={ChartData.dataHorizontal} options={{ responsive: true }} />
-          <div className="totalCount">{t('AboutPage.totalCount')} <b>{result}</b></div>
+          <div className="totalCount">
+            {t("AboutPage.totalCount")} <b>{result}</b>
+          </div>
         </Row>
       </Container>
     </div>
