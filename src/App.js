@@ -29,11 +29,13 @@ import NewsSingle_06 from "./Pages/NewsSingle_06.jsx";
 import NewsSingle_07 from "./Pages/NewsSingle_07.jsx";
 import NewsSingle_08 from "./Pages/NewsSingle_08.jsx";
 import NewsSingle_09 from "./Pages/NewsSingle_09.jsx";
+import Preloader from "./components/Preloader";
 
 function App() {
   const { user } = useContext(Context);
   return (
     <>
+      <Preloader />
       <>
         <Router>
           <Switch>
