@@ -327,7 +327,7 @@ const Workers = () => {
                 </div>
               </div>
             </Col>
-            <Col
+            {/* <Col
               className="centerCol"
               lg="4"
               md="6"
@@ -347,7 +347,7 @@ const Workers = () => {
                   </div>
                 </div>
               </div>
-            </Col>
+            </Col> */}
             <Col
               className="centerCol"
               lg="4"
@@ -453,7 +453,7 @@ const Workers = () => {
                 </div>
               </div>
             </Col>
-            <Col
+            {/* <Col
               className="centerCol"
               lg="4"
               md="6"
@@ -473,7 +473,7 @@ const Workers = () => {
                   </div>
                 </div>
               </div>
-            </Col>
+            </Col> */}
             <Col
               className="centerCol"
               lg="4"
