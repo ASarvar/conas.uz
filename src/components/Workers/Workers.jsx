@@ -23,7 +23,7 @@ import vaxobov from "../../assets/Vaxobov.jpg";
 import pulatov from "../../assets/Pulatov.jpg";
 import xodjayev from "../../assets/Xodjayev.png";
 import rayimberdiyev from "../../assets/Rayimberdiyev.png";
-import nurmatov from "../../assets/Nurmatov.png";
+import nurmatov from "../../assets/Nurmatov.jpg";
 // import qurbonov from '../../assets/media/nophoto.jpg';
 import { useTranslation } from "react-i18next";
 

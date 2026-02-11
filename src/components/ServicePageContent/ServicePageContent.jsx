@@ -33,6 +33,7 @@ import gazelNext from "../../assets/machines/gazelNext.jpg";
 import IsuzuNPR82L from "../../assets/machines/IsuzuNPR82L.jpg";
 import sanySTC500 from "../../assets/machines/sanySTC500.jpg";
 import shackmanX3000 from "../../assets/machines/shackmanX3000.jpg";
+import howo6x4_52m from "../../assets/machines/howo6x4-52m.jpg";
 
 const ServicePageContent = () => {
   const { t } = useTranslation();
@@ -297,6 +298,14 @@ const ServicePageContent = () => {
                 <img src={gazelNext} alt="" />
               </div>
               <h3 className="titleMachine">{t("machineService.gazelNext")}</h3>
+            </div>
+          </Col>
+          <Col className="ColCenter" lg="3" md="4" sm="6">
+            <div className="machinesBox">
+              <div className="imgBox">
+                <img src={howo6x4_52m} alt="" />
+              </div>
+              <h3 className="titleMachine">{t("machineService.howo6x4_52m")}</h3>
             </div>
           </Col>
         </Row>
